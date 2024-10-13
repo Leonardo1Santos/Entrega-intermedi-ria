@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando em um canal do youtube [LeonardoProjetos](https://www.youtube.com/@LeonardoRenatoBatosdosSantos)
 
-- 🌱 Atualmente eu estou cursando **Análise e desenvolvimento de projetos**
+- 🌱 Atualmente eu estou cursando **Análise e desenvolvimento de sistemas**
 
 - 👯 Também trabalho na Rede D'or como **Assistende administrativo**
 
