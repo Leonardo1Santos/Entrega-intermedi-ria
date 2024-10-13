@@ -3,7 +3,7 @@
 <h1 align="center">Olá 👋, me chamo Leonardo Santos</h1>
 <h3 align="center">Buscando me tornar um gerente de projetos em geral</h3>
 
-- 🔭 Atualmente estou trabalhando em um canal do youtube [LeonardoProjetos](https://www.youtube.com/@LeonardoRenatoBatosdosSantos)
+- 🔭 Possuo um canal no youtube [LeonardoProjetos](https://www.youtube.com/@LeonardoRenatoBatosdosSantos)
 
 - 🌱 Atualmente eu estou cursando **Análise e desenvolvimento de sistemas**
 
