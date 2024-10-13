@@ -1,10 +1,11 @@
+# Entrega-intermedi-ria
 
 <h1 align="center">Olá 👋, me chamo Leonardo Santos</h1>
-<h3 align="center">Apaixonado por gerência de projetos em geral</h3>
+<h3 align="center">Buscando me tornar um gerente de projetos em geral</h3>
 
-- 🔭 Atualmente estou trabalhando em um canal do youtube [LeonardoProjetos](https://www.youtube.com/@LeonardoRenatoBatosdosSantos)
+- 🔭 Possuo um canal no youtube [LeonardoProjetos](https://www.youtube.com/@LeonardoRenatoBatosdosSantos)
 
-- 🌱 Atualmente eu estou cursando **Análise e desenvolvimento de projetos**
+- 🌱 Atualmente eu estou cursando **Análise e desenvolvimento de sistemas**
 
 - 👯 Também trabalho na Rede D'or como **Assistende administrativo**
 
@@ -37,5 +38,8 @@
 
 
 Leonardo1Santos/Leonardo1Santos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+pository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
